@@ -54,7 +54,7 @@ function handleChange(event){
         <section className="meme-generator">
 
             <header className="header">
-            <img src="troll-face.png" alt="logo" />
+            <img src="./troll-face.png" alt="logo" />
             <h1>Meme Generator</h1>
         </header>
         <main className="main-components">
@@ -106,3 +106,4 @@ function handleChange(event){
 
 
 }
+
